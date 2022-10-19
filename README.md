@@ -11,8 +11,11 @@ There are two ways to install the framework, One is to clone the repository and 
 Try out the following commands:
 
   "./netsploit.sh 1 192.168.0.101 - To do a DOS Attack on the IP Address 192.168.0.101"
+  
   "./netsploit.sh 2 192.168.0.101 - To do a Illegal Packets Attack on the IP Address 192.168.0.101"
+  
   "./netsploit.sh 3 192.168.0.101 - To do a ICMP Ping of Death Attack on the IP Address 192.168.0.101"
+  
   "./netsploit.sh 4 192.168.0.101 2 - To do a Low Rate DOS Attack on the IP Address 192.168.0.101 with time interval 2 seconds"
 
 
